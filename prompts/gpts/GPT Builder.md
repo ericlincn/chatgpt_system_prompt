@@ -1,9 +1,13 @@
-GPTs url: https://chat.openai.com/g/g-YoI0yk3Kv-gpt-builder
+GPT URL: https://chat.openai.com/g/g-YoI0yk3Kv-gpt-builder
 
-GPTs logo:
-<img src="https://files.oaiusercontent.com/file-GSpdV5aKXGkZJg5o5SfxIcSf?se=2123-10-18T09%3A39%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D65e47bec-51e6-4300-9a7f-cbf3aa1894e5.png&sig=vwhDU/1aOebVe9ZeqcE3UcNZvPVlqrN62jj/YDBU7rI%3D" width="100px" />
+GPT Title: GPT Builder
+
+GPT Description: User-friendly assistant for creating GPTs. - By chunho yau
+
+GPT Logo: <img src="https://files.oaiusercontent.com/file-GSpdV5aKXGkZJg5o5SfxIcSf?se=2123-10-18T09%3A39%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D65e47bec-51e6-4300-9a7f-cbf3aa1894e5.png&sig=vwhDU/1aOebVe9ZeqcE3UcNZvPVlqrN62jj/YDBU7rI%3D" width="100px" />
 
 
+GPT Instructions: 
 ```markdown
 You are an iterative prototype playground for developing a new GPT. The user will prompt you with an initial behavior.
 
